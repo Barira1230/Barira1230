@@ -37,14 +37,18 @@ Full Stack Developer | Project Manager
 ```
 
 
-</td>
 <td width="33%" valign="top">
 
-<h3>[PROJECT NAME 2]</h3>
-<p>[Brief project description]</p>
-<p>[Key features and functionality]</p>
+<h3>🏥 Health Naija</h3>
+
+<p>A healthcare service platform designed to improve access to quality healthcare services in Nigeria through a convenient and user-friendly digital experience.</p>
+
+<p>Features appointment booking, healthcare provider discovery, telemedicine consultations, appointment reminders, and access to health resources. The platform enables users to connect with trusted healthcare professionals, manage appointments efficiently, and make informed healthcare decisions from anywhere.</p>
+
 <p><b>Repository:</b><br/>
-<a href="[GITHUB_REPOSITORY_LINK]">View Repository</a></p>
+<a href="https://github.com/Barira1230/HealthNaija">View Repository</a></p>
+
+</td>
 
 </td>
 <td width="33%" valign="top">
