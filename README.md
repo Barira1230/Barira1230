@@ -117,24 +117,22 @@ Full Stack Developer | Project Manager
   <code>Problem Solving</code>
 </p>
 
-<h2>🤳 Connect with Me</h2>
+```html
+<h2>🤳 Connect With Me</h2>
 
-<a href="[LINKEDIN_URL]">
+<a href="https://www.linkedin.com/in/barira-tijjani-61986a267?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
   <img align="left" width="32px"
-  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
+  style="background-color:white; padding:6px; border-radius:8px;" />
 </a>
 
-<a href="[GITHUB_URL]">
+<a href="https://github.com/Barira1230">
   <img align="left" width="32px"
-  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-
-<a href="[INSTAGRAM_URL]">
-  <img align="left" width="32px"
-  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"
+  style="background-color:white; padding:6px; border-radius:8px;" />
 </a>
 
 <br/>
 <br/>
 <br/>
-```
+
