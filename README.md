@@ -52,9 +52,6 @@ Full Stack Developer | Project Manager
 
 </td>
 <td width="33%" valign="top">
-```html
-<td width="33%" valign="top">
-
 <h3>🚗 Vehicle Maintenance Record System</h3>
 
 <p>A web-based vehicle maintenance management system designed to help vehicle owners efficiently track, organize, and manage maintenance records.</p>
@@ -65,7 +62,7 @@ Full Stack Developer | Project Manager
 <a href="https://github.com/Barira1230/maintenance">View Repository</a></p>
 
 </td>
-```
+
 
 
 </td>
