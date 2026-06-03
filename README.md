@@ -14,9 +14,14 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Project-217346?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
 <h2>👨‍💻 Software Development Projects</h2>
@@ -52,9 +57,9 @@
   <code>Software Requirements Specification (SRS)</code>
   <code>Use Case Diagrams</code>
   <code>Activity Diagrams</code>
-  <code>ER Diagrams</code>
   <code>Class Diagrams</code>
   <code>Sequence Diagrams</code>
+  <code>ER Diagrams</code>
   <code>Data Flow Diagrams (DFD)</code>
   <code>State Transition Diagrams</code>
   <code>Workflow Modeling</code>
@@ -82,6 +87,20 @@
 - [UNIVERSITY / INSTITUTION]
 - [PROGRAM / DEGREE]
 - [EXPECTED GRADUATION YEAR]
+
+<h2>📈 Project Management & Professional Skills</h2>
+
+<p>
+  <code>Agile Methodology</code>
+  <code>Scrum</code>
+  <code>Project Planning</code>
+  <code>Risk Management</code>
+  <code>Requirements Gathering</code>
+  <code>Stakeholder Communication</code>
+  <code>Team Leadership</code>
+  <code>Documentation</code>
+  <code>Problem Solving</code>
+</p>
 
 <h2>🤳 Connect with Me</h2>
 
