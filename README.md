@@ -1,4 +1,4 @@
-```html
+
 <h1>Hi, I'm Barira! <br/>
 <a href="#">Full Stack Developer</a> |
 <a href="#">Project Manager</a>
