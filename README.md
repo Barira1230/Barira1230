@@ -1,18 +1,22 @@
 ```html
-<h1>Hi, I'm [YOUR NAME]! <br/>
-<a href="#">[ROLE / TITLE 1]</a> | 
-<a href="#">[ROLE / TITLE 2]</a>
+<h1>Hi, I'm Barira! <br/>
+<a href="#">Full Stack Developer</a> |
+<a href="#">Project Manager</a>
 </h1>
 
 <h3>🛠️ Tech Stack & Skills</h3>
 
 <p>
-  <!-- Replace or remove technologies as needed -->
-  <img src="[TECH_BADGE_URL]" />
-  <img src="[TECH_BADGE_URL]" />
-  <img src="[TECH_BADGE_URL]" />
-  <img src="[TECH_BADGE_URL]" />
-  <img src="[TECH_BADGE_URL]" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white" />
 </p>
 
 <h2>👨‍💻 Software Development Projects</h2>
@@ -42,22 +46,21 @@
   </tr>
 </table>
 
-<h2>🧩 Additional Projects</h2>
-
-- [PROJECT PLACEHOLDER 1]
-- [PROJECT PLACEHOLDER 2]
-- [PROJECT PLACEHOLDER 3]
-
-<h2>📊 Skills & Expertise</h2>
+<h2>📊 System Analysis & Design</h2>
 
 <p>
-  <code>[SKILL 1]</code>
-  <code>[SKILL 2]</code>
-  <code>[SKILL 3]</code>
-  <code>[SKILL 4]</code>
-  <code>[SKILL 5]</code>
-  <code>[SKILL 6]</code>
-  <code>[SKILL 7]</code>
+  <code>Software Requirements Specification (SRS)</code>
+  <code>Use Case Diagrams</code>
+  <code>Activity Diagrams</code>
+  <code>ER Diagrams</code>
+  <code>Class Diagrams</code>
+  <code>Sequence Diagrams</code>
+  <code>Data Flow Diagrams (DFD)</code>
+  <code>State Transition Diagrams</code>
+  <code>Workflow Modeling</code>
+  <code>Database Design</code>
+  <code>System Design</code>
+  <code>Wireframing & Prototyping</code>
 </p>
 
 <h2>📜 Certifications</h2>
@@ -69,6 +72,9 @@
   <a href="[CERTIFICATE_LINK]">View Certificate</a>
 
 - <b>[CERTIFICATION NAME 3]</b><br/>
+  <a href="[CERTIFICATE_LINK]">View Certificate</a>
+
+- <b>[CERTIFICATION NAME 4]</b><br/>
   <a href="[CERTIFICATE_LINK]">View Certificate</a>
 
 <h2>🎓 Education</h2>
