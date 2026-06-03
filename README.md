@@ -52,12 +52,21 @@ Full Stack Developer | Project Manager
 
 </td>
 <td width="33%" valign="top">
+```html
+<td width="33%" valign="top">
 
-<h3>[PROJECT NAME 3]</h3>
-<p>[Brief project description]</p>
-<p>[Key features and functionality]</p>
+<h3>🚗 Vehicle Maintenance Record System</h3>
+
+<p>A web-based vehicle maintenance management system designed to help vehicle owners efficiently track, organize, and manage maintenance records.</p>
+
+<p>Features maintenance history tracking, secure record storage, customizable maintenance management, and an intuitive user interface for monitoring vehicle servicing activities. The system helps users maintain vehicle performance, improve safety, and ensure timely maintenance scheduling.</p>
+
 <p><b>Repository:</b><br/>
-<a href="[GITHUB_REPOSITORY_LINK]">View Repository</a></p>
+<a href="https://github.com/Barira1230/maintenance">View Repository</a></p>
+
+</td>
+```
+
 
 </td>
 </tr>
