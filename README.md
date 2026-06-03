@@ -117,7 +117,7 @@ Full Stack Developer | Project Manager
   <code>Problem Solving</code>
 </p>
 
-```html
+
 <h2>🤳 Connect With Me</h2>
 
 <a href="https://www.linkedin.com/in/barira-tijjani-61986a267?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
