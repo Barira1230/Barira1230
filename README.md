@@ -82,12 +82,12 @@ Full Stack Developer | Project Manager
 <tr>
 
 <td align="center" width="50%">
-<img src="./certificates/excel.jpeg" width="250"><br>
+<img src="./certficates/excel.jpeg" width="250"><br>
 <b>Getting Started with Microsoft Excel</b>
 </td>
 
 <td align="center" width="50%">
-<img src="./certificates/work smarter not harder.jpeg" width="250"><br>
+<img src="./certficates/work smarter not harder.jpeg" width="250"><br>
 <b>Work Smarter, Not Harder: Time Management for Productivity</b>
 </td>
 
@@ -96,12 +96,12 @@ Full Stack Developer | Project Manager
 <tr>
 
 <td align="center" width="50%">
-<img src="./certificates/ethics.jpeg" width="250"><br>
+<img src="./certficates/ethics.jpeg" width="250"><br>
 <b>Ethics Certification</b>
 </td>
 
 <td align="center" width="50%">
-<img src="./certificates/freecode.png" width="250"><br>
+<img src="./certficates/freecode.png" width="250"><br>
 <b>Introduction to Cybersecurity</b>
 </td>
 
@@ -112,8 +112,8 @@ Full Stack Developer | Project Manager
 
 <p>
 <b>Nile University of Nigeria</b><br/>
-Software Engineering<br/>
-Expected Graduation Year: 2026
+B.Eng. Software Engineering<br/>
+Expected Graduation: 2026
 </p>
 
 <h2>📈 Project Management & Professional Skills</h2>
@@ -147,3 +147,4 @@ Expected Graduation Year: 2026
 <br/>
 <br/>
 <br/>
+
