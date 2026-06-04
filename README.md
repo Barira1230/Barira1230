@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Barira 👋</h1>
 
 <h3 align="center">
@@ -26,46 +25,37 @@ Full Stack Developer | Project Manager
 
 <table>
 <tr>
+
 <td width="33%" valign="top">
 
-
-<h3>Ambulance System</h3>
+<h3>🚑 Ambulance System</h3>
 <p>A web-based emergency response system that allows users to request an ambulance during urgent situations.</p>
 <p>Implements Role-Based Access Control (RBAC), allowing different users to access the system from different perspectives such as requesters, responders, and administrators.</p>
 <p><b>Repository:</b><br/>
 <a href="https://github.com/AmirDamakasu/Ambulances_services-">View Repository</a></p>
-```
 
+</td>
 
 <td width="33%" valign="top">
 
 <h3>🏥 Health Naija</h3>
-
 <p>A healthcare service platform designed to improve access to quality healthcare services in Nigeria through a convenient and user-friendly digital experience.</p>
-
-<p>Features appointment booking, healthcare provider discovery, telemedicine consultations, appointment reminders, and access to health resources. The platform enables users to connect with trusted healthcare professionals, manage appointments efficiently, and make informed healthcare decisions from anywhere.</p>
-
+<p>Features appointment booking, healthcare provider discovery, telemedicine consultations, appointment reminders, and access to health resources.</p>
 <p><b>Repository:</b><br/>
 <a href="https://github.com/Barira1230/HealthNaija">View Repository</a></p>
 
 </td>
 
-</td>
 <td width="33%" valign="top">
+
 <h3>🚗 Vehicle Maintenance Record System</h3>
-
 <p>A web-based vehicle maintenance management system designed to help vehicle owners efficiently track, organize, and manage maintenance records.</p>
-
-<p>Features maintenance history tracking, secure record storage, customizable maintenance management, and an intuitive user interface for monitoring vehicle servicing activities. The system helps users maintain vehicle performance, improve safety, and ensure timely maintenance scheduling.</p>
-
+<p>Features maintenance history tracking, secure record storage, customizable maintenance management, and an intuitive user interface.</p>
 <p><b>Repository:</b><br/>
 <a href="https://github.com/Barira1230/maintenance">View Repository</a></p>
 
 </td>
 
-
-
-</td>
 </tr>
 </table>
 
@@ -88,20 +78,43 @@ Full Stack Developer | Project Manager
 
 <h2>📜 Certifications</h2>
 
-- <b>[CERTIFICATION NAME 1]</b><br/>
-  <a href="[CERTIFICATE_LINK]">View Certificate</a>
+<table>
+<tr>
 
-- <b>[CERTIFICATION NAME 2]</b><br/>
-  <a href="[CERTIFICATE_LINK]">View Certificate</a>
+<td align="center" width="50%">
+<img src="./certificates/excel.jpeg" width="250"><br>
+<b>Getting Started with Microsoft Excel</b>
+</td>
 
-- <b>[CERTIFICATION NAME 3]</b><br/>
-  <a href="[CERTIFICATE_LINK]">View Certificate</a>
+<td align="center" width="50%">
+<img src="./certificates/work smarter not harder.jpeg" width="250"><br>
+<b>Work Smarter, Not Harder: Time Management for Productivity</b>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="50%">
+<img src="./certificates/ethics.jpeg" width="250"><br>
+<b>Ethics Certification</b>
+</td>
+
+<td align="center" width="50%">
+<img src="./certificates/freecode.png" width="250"><br>
+<b>Introduction to Cybersecurity</b>
+</td>
+
+</tr>
+</table>
 
 <h2>🎓 Education</h2>
 
-- <b>Nile University of Nigeria</b>
-- Software Engineering
-- Expected Graduation Year: 2026
+<p>
+<b>Nile University of Nigeria</b><br/>
+Software Engineering<br/>
+Expected Graduation Year: 2026
+</p>
 
 <h2>📈 Project Management & Professional Skills</h2>
 
@@ -117,10 +130,9 @@ Full Stack Developer | Project Manager
   <code>Problem Solving</code>
 </p>
 
-
 <h2>🤳 Connect With Me</h2>
 
-<a href="https://www.linkedin.com/in/barira-tijjani-61986a267?utm_source=share_via&utm_content=profile&utm_medium=member_ios">
+<a href="https://www.linkedin.com/in/barira-tijjani-61986a267/">
   <img align="left" width="32px"
   src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"
   style="background-color:white; padding:6px; border-radius:8px;" />
@@ -135,4 +147,3 @@ Full Stack Developer | Project Manager
 <br/>
 <br/>
 <br/>
-
